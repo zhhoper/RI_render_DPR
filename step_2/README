@@ -1,0 +1,3 @@
+getObj_3DDFA.py: Based on the predicted landmark and compute new obj file with normal
+my_render.py: Based on the new obj file computed using getObj_3DDFA.py, get albedo, normal, uv map and labels 
+change line 11 in script_render.py to the absolute path of mtl file (it should be in data/3DMM/)

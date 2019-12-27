@@ -1,0 +1,5 @@
+name face_52086 scale 0.707587 angle 2.236397
+name face_64729 scale 0.602686 angle 4.376708
+name face_48044 scale 0.607291 angle 4.199227
+name face_51285 scale 0.710435 angle 5.122558
+name face_57458 scale 0.331664 angle 5.570324
