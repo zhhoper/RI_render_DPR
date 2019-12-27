@@ -2,7 +2,7 @@
 **/__pycache__
 bash*
 *.pyc
-useful_code/3DDFA
-useful_code/libigl
-useful_code/SHTOOLS
-useful_code/triangle_berkeley
+**/3DDFA
+**/libigl
+**/SHTOOLS
+**/triangle_berkeley
