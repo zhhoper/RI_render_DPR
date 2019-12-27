@@ -1,8 +1,17 @@
 <!--<h3><b>Data PrepareR</b></h3>-->
 ## <b>Ratio Image Based Rendering for Deep Single-Image Portrait Relighting</b> [[Project Page]](http://zhhoper.github.io/dpr.html) <br>
+This is part of the Deep Portrait Relighting project. If you find this project useful, please cite the paper:
+```
+@InProceedings{DPR, 
+  title={Deep Single Portrait Image Relighting},
+  author = {Hao Zhou and Sunil Hadap and Kalyan Sunkavalli and David W. Jacobs},
+  booktitle={International Conference on Computer Vision (ICCV)},
+  year={2019}
+}
+```
 
 ### NOTE:
-This code is not optimized. 
+This code is not optimized and may not be well organized. 
 
 ### Dependences:
 3DDFA: https://github.com/cleardusk/3DDFA (download the code and put it in useful_code, follow the instruction to download model and setup the code)
