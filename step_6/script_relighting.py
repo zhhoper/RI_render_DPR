@@ -152,10 +152,9 @@ def process_normal(normal):
     return normal
 
 def script_relighting(numImgs):
-    lightBase = '../../../data/bip2017/'
-    lightPath = os.path.join(lightBase, 'processed_lighting')
+    lightPath = 'processed_bip2019'
     lightList = []
-    with open(os.path.join(lightBase, 'lighting.list')) as f:
+    with open('lighting.list')) as f:
         for line in f:
             tmp = line.strip()
             lightList.append(tmp)

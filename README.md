@@ -59,4 +59,5 @@ I use miniconda to setup virtual environment
 
 6.  run `bash run_relight.sh`
          relighting faces
+         download our processed bip2017 lighting through (https://drive.google.com/open?id=1l0SiR10jBqACiOeAvsXSXAufUtZ-VhxC), change line 155 in script_relighting.py to poit to the lighting folder 
          Apply face semantic segmentation to get skin region of the face: https://github.com/Liusifei/Face_Parsing_2016 save the results in folder face_parsing/ (examples are shown in face_parsing, you can also skip this by adapting the code of script_relighting.py)
